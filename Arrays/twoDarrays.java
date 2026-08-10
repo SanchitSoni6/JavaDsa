@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class twoDarrays{
+    // This program takes a 2D array as input and finds the indices of a given element in the array.
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         int rows = sc.nextInt();
