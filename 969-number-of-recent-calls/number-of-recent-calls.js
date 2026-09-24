@@ -1,0 +1,1 @@
+class RecentCounter{#e=[];#s=0;ping(e){for(this.#e.push(e);this.#e[this.#s]<e-3e3;)this.#s++;return this.#e.length-this.#s}}
